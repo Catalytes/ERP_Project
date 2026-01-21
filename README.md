@@ -67,12 +67,12 @@ This approach ensures:
 ---
 
 ## 👥 Contributors
-- **Himanshu Pawar**
-- **Riya Pawar**
-- **Krutika Khairna**
-- **Abhijeet Barhate**
-- **Saras Magade**
-- **Harshawardhan Jadhav**
+- [**Himanshu Pawar**](https://github.com/Hima1234gh)
+- [**Riya Pawar**](https://github.com/RiyaPawar-dev)
+- [**Krutika Khairna**]()
+- [**Abhijeet Barhate**](https://github.com/DeepRigged)
+- [**Saras Magade**]()
+- [**Harshawardhan Jadhav**]()
 
 ---
 
