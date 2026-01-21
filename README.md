@@ -69,7 +69,7 @@ This approach ensures:
 ## 👥 Contributors
 - [**Himanshu Pawar**](https://github.com/Hima1234gh)
 - [**Riya Pawar**](https://github.com/RiyaPawar-dev)
-- [**Krutika Khairna**]()
+- [**Krutika Khairnar**]()
 - [**Abhijeet Barhate**](https://github.com/DeepRigged)
 - [**Saras Magade**]()
 - [**Harshawardhan Jadhav**]()
